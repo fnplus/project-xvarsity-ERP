@@ -1,0 +1,3 @@
+[submodule "services/evarsity-api"]
+	path = services/evarsity-api
+	url = https://github.com/NihalSh/evarsity-api.git
